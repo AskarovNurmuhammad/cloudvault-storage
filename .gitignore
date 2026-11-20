@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+backend/uploads/*
+!backend/uploads/.gitkeep
